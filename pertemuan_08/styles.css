@@ -1,0 +1,67 @@
+/* p{
+    color: blue;
+}
+
+p.error {
+    color: red;
+}
+
+p.success.feedback{
+    color: green;
+    border:5px solid yellow;
+} */
+
+/* .feedback{
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: yellow; */
+    /* border:5px solid yellow; }*/
+
+#top-container{
+    background-color: lightgrey;
+}
+#bottom-container{
+    background-color: lightgreen;
+}
+
+    div .error{
+        color: red;
+    }
+    
+    /* div.error{
+        color: red;
+    } */
+
+    a[href]{
+        font-size:30px;
+        text-decoration: none;
+        /* text-transform: capitalize; */
+        text-transform: uppercase;
+        background-color: yellow;
+    }
+
+    /* a[href="www.google.com"]{
+        background-color: green;
+    } */
+
+    a[href*="google"]{
+        background-color: green;
+    }
+
+    a[href$="ac.id"]{
+        background-color: purple;
+    }
+
+    h1:hover{
+        color: white;
+        background-color: black;
+    }
+
+    p::selection{
+        background-color: red;
+        color: yellow;
+    }
+
+    a::before{
+    content:"Link - ";
+    }
