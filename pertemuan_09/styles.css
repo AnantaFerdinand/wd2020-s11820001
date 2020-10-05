@@ -1,0 +1,28 @@
+img {
+    display: block;
+    background-color: lightskyblue;
+    width: 90px;
+    height: 80px;
+    padding: 20px;
+    border:  10px solid red;
+    margin:20px;
+}
+
+div{
+    height:160px;
+    padding:60px;
+    border:30px;
+    margin:60px;
+  
+}
+
+    
+
+
+
+
+
+
+
+
+
