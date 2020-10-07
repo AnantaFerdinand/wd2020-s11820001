@@ -1,0 +1,30 @@
+span{
+    display:block;
+    background-color:lightskyblue;
+    /* border:10px solid red; */
+    margin:10px;
+}
+
+p.green-text{
+    background-color:lightgreen;
+    height:30px;
+   
+}
+
+p.blue-text{
+    background-color: lightblue;
+    height:30px;
+}
+
+span.green-text{
+    display:inline;
+    background-color:lightgreen;
+    margin:20px;
+   
+}
+
+span.blue-text{
+    display:inline;
+    background-color:lightblue;
+    margin:20px;
+}
