@@ -1,0 +1,19 @@
+body{
+    font-family: 'Merienda', cursive;
+    font-size: 3.5em;
+    text-align: left;
+}
+
+h1{
+    font-family: 'Commissioner', sans-serif;
+    font-size: 5.625rem;
+    width: 60%;
+    margin: 1px;
+    background-color:red;
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    color:blueviolet;
+    
+}
